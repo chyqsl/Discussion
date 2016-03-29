@@ -1,0 +1,72 @@
+please type some strings, one string each line and an empty line for the end of input:
+a b c
+ah bh
+data
+IT success
+
+a b c
+ah bh
+data
+IT success
+data
+structures
+comp9024
+assignment1
+good
+morning
+creativity
+is
+the
+key
+to
+succcess
+in
+IT
+Never
+accumulate
+your
+problems
+a b c
+ah bh
+data
+IT success
+data
+structures
+comp9024
+assignment1
+good
+morning
+creativity
+is
+the
+key
+to
+succcess
+in
+IT
+Never
+accumulate
+your
+problems
+data
+structures
+comp9024
+assignment1
+good
+morning
+creativity
+is
+the
+key
+to
+succcess
+in
+IT
+Never
+accumulate
+your
+problems
+a b c
+ah bh
+IT success
+data
